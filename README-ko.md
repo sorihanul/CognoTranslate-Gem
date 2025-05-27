@@ -89,4 +89,20 @@ Gemini Gems 환경에서 `CognoTranslate Gem v0.1` (소설 번역 특화)을 구
     모든 설정을 마친 후, 다양한 한국어 소설이나 문학 텍스트로 Gem을 철저히 테스트하세요. Gem이 설정된 워크플로우와 지식을 제대로 적용하여 문학적으로 풍부한 번역을 생성하는지 확인해 볼 수 있습니다.
 
 ---
+---
 
+## ⚠️ 중요 고지 (Disclaimer)
+
+**CognoTranslate Gem**은 인공지능 기술을 활용한 번역 에이전트이며, 최적의 번역 품질을 제공하기 위해 노력합니다. 그러나 인공지능 번역의 특성상 **오역, 누락, 또는 문화적/맥락적 오류가 발생할 수 있습니다.**
+
+본 번역 에이전트의 결과물을 상업적, 법률적, 의료적 등 **정확성과 신뢰성이 절대적으로 요구되는 목적으로 사용할 경우, 반드시 전문 인력의 검수 및 교정**을 거쳐야 합니다. 번역 결과물의 사용으로 발생하는 어떠한 직간접적인 손해나 문제에 대해서도 **본 프로젝트 개발자는 책임을 지지 않습니다.** 사용자는 번역 결과물의 최종 검토 및 활용에 대한 모든 책임을 가집니다.
+
+---
+
+## ⚠️ Important Disclaimer
+
+**CognoTranslate Gem** is an AI-powered translation agent that strives to provide the best possible translation quality. However, due to the nature of AI translation, **misinterpretations, omissions, or cultural/contextual errors may occur.**
+
+If the translation output from this agent is to be used for purposes requiring absolute accuracy and reliability, such as commercial, legal, or medical contexts, it **must be reviewed and corrected by a professional.** The developers of this project **bear no responsibility** for any direct or indirect damages or issues arising from the use of the translation results. Users bear full responsibility for the final review and utilization of the translated content.
+
+---
