@@ -344,3 +344,5 @@ Core Cognitive Grammar Concepts and Terms.md (English Version)
 - Especially when language structures are divergent, such as between English and Korean, preserving and transforming cognitive schemas and perspectives beyond surface translation is key to translation quality.
 
 
+---
+
