@@ -95,11 +95,6 @@ IT관련에서 일하지도 않고, 관련해서 전공하지도 않았습니다
 
 ps 영어 번역을 영-한 번역 젬에게 시켜봤더니 번역을 뽑아주는데 어떻게 뽑아줬는지는 모르겠네요 ㅎㅎ
 
-ps 2 arXiv에 투고하는데 문제가 생겼습니다. 추천인이 없어서 투고할 수 없네요. 일단 선 깃허브 공개를 하기로 선택했습니다. arXiv에 메일로 문의는 보냈습니다만은 어찌될지 알 수 없네요. 뭐 논문은 인정받고 안받고는 저에게 그리 큰 관심은 아닙니다. 나중에라도 문제가 해결되면 투고하면 될 듯 합니다. 하지만 역시 지금은 추천인이 없답니다 ㅎㅎ
-
-
-
-
 ## English Translation
 
 A Note from the Developer
@@ -165,6 +160,3 @@ The collection of previous versions might seem a bit complex.
 
 I sincerely hope this is used for good purposes.
 
-P.S. I tried having my English-to-Korean translation gem translate the English P.S. above, but I'm not sure how it came out, haha.
-
-P.S. 2 I ran into a problem submitting to arXiv. I can't submit it because I don't have an endorser. For now, I've decided to proceed with an immediate GitHub release. I've sent an inquiry email to arXiv, but I don't know what will happen. Anyway, whether the paper is recognized or not isn't a huge concern for me. If the issue gets resolved later, I can submit it then. But still, I don't have an endorser right now, haha.
