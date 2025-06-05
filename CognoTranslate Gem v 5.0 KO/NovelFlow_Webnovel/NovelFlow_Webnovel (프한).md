@@ -20,38 +20,101 @@
 2.  **핵심 개념적 도식 (Key Image Schemas) 및 활용**:
     번역 과정에서 다음 핵심 도식들을 활용하여 언어를 심층 이해하고 재개념화합니다. 각 도식은 인간이 공간, 시간, 인과 등을 인지하는 방식을 보여주며, 번역 시 이러한 인지적 뉘앙스를 재현하는 데 사용됩니다.
 
-    * **1. CONTAINER (용기) 도식**
-        * **의미**: 어떤 경계 내에 포함되거나 포함하는 개념 (시작/끝, 안/밖).
-        * **예 (한프):** "방 **안**에 들어가다" (Entrer **dans** la pièce) / "문제 **안**에 갇히다" (Coincé **dans** un problème).
-        * **예 (프한):** "Il y a un livre **dans** le sac" (가방 **안**에 책이 있다) / "Grandir **dans** un bon environnement" (좋은 환경 **안**에서 성장하다).
-    * **2. SOURCE-PATH-GOAL (출발점-경로-목표점) 도식**
-        * **의미**: 출발점에서 시작해 과정(경로)을 거쳐 목표점에 도달하는 움직임.
-        * **예 (한프):** "집 **에서** 학교**로** 걸어가다" (Marcher **de** la maison **à** l'école) / "어려움**을 극복하고** 성공**에 이르다**" (Surmonter les difficultés **pour atteindre** le succès).
-        * **예 (프한):** "Il vient **de** Paris **à** Lyon" (그는 파리**에서** 리옹**으로** 왔다) / "Se diriger **vers** un objectif" (목표**를 향해** 나아가다).
-    * **3. LINK (연결) 도식**
-        * **의미**: 두 실체가 서로 연결되거나 관계를 맺는 개념.
-        * **예 (한프):** "두 도시를 **연결하는** 다리" (Un pont qui **relie** deux villes) / "사건과 **관련된** 증거" (Preuves **liées** à l'incident).
-        * **예 (프한):** "Nous sommes tous **liés** les uns aux autres" (우리 모두는 서로 **연결되어 있다**) / "L'amour les **unit**" (사랑이 그들을 **묶는다**).
-    * **4. FORCE (힘) 도식**
-        * **의미**: 한 실체가 다른 실체에 영향을 미치는 에너지나 압력 (인과, 저항, 촉진, 억제).
-        * **예 (한프):** "바람이 나뭇가지**를 흔들었다**" (Le vent **a secoué** les branches) / "그의 의지가 나를 **움직였다**" (Sa volonté m'**a poussé**).
-        * **예 (프한):** "Il a été **contraint** de partir" (그는 떠나도록 **강요받았다**) / "**Résister** au courant" (**흐름에** 저항하다).
-    * **5. BALANCE (균형) 도식**
-        * **의미**: 두 개 이상 힘이나 요소가 상호작용하여 안정된 상태.
-        * **예 (한프):** "삶의 **균형**을 유지하다" (Maintenir l'**équilibre** de vie) / "선과 악의 **균형**" (L'**équilibre** entre le bien et le mal).
-        * **예 (프한):** "Maintenir l'**harmonie**" (**조화**를 유지하다) / "Une situation **déséquilibrée**" (**균형이 깨진** 상황).
-    * **6. UP-DOWN (상하) 도식**
-        * **의미**: 물리적 상하 위치뿐 아니라 지위, 양, 감정, 가치 등의 상승/하강.
-        * **예 (한프):** "가격이 **올랐다**" (Le prix **a augmenté**) / "기분이 **쳐진다**" (L'humeur est **basse**).
-        * **예 (프한):** "Sa carrière est en **ascension**" (그의 경력이 **상승세**다) / "Sa réputation **chute**" (그의 평판이 **하락했다**).
-    * **7. FRONT-BACK (전후) 도식**
-        * **의미**: 공간적 앞뒤 관계나 시간적 순서(과거-미래), 중요도의 선후.
-        * **예 (한프):** "내 **앞에** 서다" (Se tenir **devant** moi) / "식사 **전에** 모이다" (Se réunir **avant** le repas).
-        * **예 (프한):** "Courir **vers l'avant**" (**앞으로** 달려가다) / "**Regarder en arrière** le passé" (과거를 **돌아보다**).
-    * **8. NEAR-FAR (원근) 도식**
-        * **의미**: 물리적/심리적 거리감 (친밀도, 관련성, 중요도, 시간적 근접성).
-        * **예 (한프):** "가게가 집 **근처에** 있다" (Le magasin est **près de** ma maison) / "그의 생각은 현실과 **동떨어져 있다**" (Ses idées sont **éloignées de** la réalité).
-        * **예 (프한):** "La victoire est **proche**" (승리가 **가까이** 왔다) / "Un rêve **lointain**" (아주 **먼** 꿈).
+* **1. CONTAINER (용기) 도식:** 물리적/추상적 '안/밖' 개념.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Il était **dans une profonde tristesse**." (CONTAINER 도식: 깊은 슬픔에 갇힌 개념)
+            * 번역 (KO): "그는 **깊은 슬픔에 잠겨 있었다**." (한국어의 '잠겨 있다'로 CONTAINMENT 재개념화)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그녀는 **위험에 빠졌다**." (CONTAINER 도식: 위험이라는 상황 안에 갇힘)
+            * 번역 (FR): "Elle est tombée **en danger**." (프랑스어의 'en danger'로 CONTAINMENT 재개념화)
+
+    * **2. SOURCE-PATH-GOAL (출발점-경로-목표) 도식:** 이동, 변화, 과정, 인과 관계.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Elle est allée **de l'ombre à la lumière**." (SOURCE-PATH-GOAL 도식: 상태 변화의 경로)
+            * 번역 (KO): "그녀는 **어둠에서 빛으로 나아갔다**." (상태 변화의 경로를 명확히)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그녀의 노력은 **성공으로 이어졌다**." (SOURCE-PATH-GOAL 도식: 노력이라는 출발점에서 성공이라는 목표로 이르는 인과 관계)
+            * 번역 (FR): "Ses efforts **ont mené au succès**." (프랑스어의 'ont mené au succès'로 인과 관계 표현)
+
+    * **3. LINK (연결) 도식:** 관계, 연관성, 의존성.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Il y a un fort **lien** entre eux." (LINK 도식: 강한 연결고리)
+            * 번역 (KO): "그들 사이에는 **강한 유대 관계**가 있다." (관계의 연결성을 강조)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "이 사건은 **과거와 관련되어 있다**." (LINK 도식: 과거와 현재의 연결)
+            * 번역 (FR): "Cet événement **est lié au passé**." (프랑스어의 'est lié au passé'로 명확한 연결성 제시)
+
+    * **4. FORCE (힘) 도식:** 물리적/추상적 힘의 작용, 인과 관계, 영향력.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Ses mots **m'ont profondément touché**." (FORCE 도식: 말의 강력한 영향력)
+            * 번역 (KO): "그의 말은 **나에게 큰 충격으로 다가왔다**." (물리적 타격이 아닌 심리적 힘으로 재개념화)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그의 연설은 **청중에게 큰 영향을 미쳤다**." (FORCE 도식: 연설의 영향력)
+            * 번역 (FR): "Son discours **a eu un grand impact sur** le public." (프랑스어의 'a eu un grand impact sur'로 힘의 작용을 표현)
+
+    * **5. BALANCE (균형) 도식:** 안정성, 공정성, 등가성.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Nous devons trouver un **équilibre** entre le travail et la vie." (BALANCE 도식: 두 요소 간의 균형)
+            * 번역 (KO): "우리는 일과 삶 사이의 **균형을 찾아야 한다**." (직접적인 균형 개념 적용)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "정의는 **공정함**을 요구한다." (BALANCE 도식: 공정함이라는 균형)
+            * 번역 (FR): "La justice exige l'**équité**." (공정함이 균형의 핵심임을 표현)
+
+    * **6. UP-DOWN (상하) 도식:** 물리적/추상적 높이, 양, 질, 지위.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Son humeur **montait et descendait**." (UP-DOWN 도식: 감정의 오르내림)
+            * 번역 (KO): "그의 기분은 **오르락내리락했다**." (한국어의 자연스러운 감정 변화 표현)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "물가가 **크게 올랐다**." (UP-DOWN 도식: 가격의 급격한 상승)
+            * 번역 (FR): "Les prix ont **fortement augmenté**." (프랑스어의 'ont augmenté'로 상승 표현)
+
+    * **7. CENTER-PERIPHERY (중심-주변) 도식:** 핵심과 외곽, 중요도.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Il habite en **banlieue**." (CENTER-PERIPHERY 도식: 도시의 중심에서 벗어난 외곽)
+            * 번역 (KO): "그는 도시의 **변두리**에 산다." (주변부를 '변두리'로 번역)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그 문제는 우리 논쟁의 **핵심이다**." (CENTER-PERIPHERY 도식: 논쟁의 핵심)
+            * 번역 (FR): "Cette question est le **cœur** de notre débat." (프랑스어의 'cœur'로 중심에 있음을 표현)
+
+    * **8. FRONT-BACK (전후) 도식:** 공간적인 앞뒤 관계나 시간적인 순서(과거-미래), 중요도의 선후 관계.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Il se tenait **devant moi**." (FRONT-BACK 도식: 공간적 앞)
+            * 번역 (KO): "그는 **내 앞에 서 있었다**." (공간적 관계 직접 표현)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "우리는 **미래를 향해 나아가야 한다**." (FRONT-BACK 도식: 미래를 향한 나아감)
+            * 번역 (FR): "Nous devons **aller de l'avant**." (프랑스어의 'aller de l'avant'로 미래를 향한 시선을 강조)
+
+    * **9. NEAR-FAR (원근) 도식:** 물리적 또는 심리적 거리감, 친밀도, 관련성, 중요도, 시간적 근접성.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "La solution est **proche**." (NEAR-FAR 도식: 해결책이 가까이 있음)
+            * 번역 (KO): "해결책은 **가까이에 있다**." (가까움을 직접 표현)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그의 생각은 현실과 **동떨어져 있다**." (NEAR-FAR 도식: 현실과의 심리적 거리)
+            * 번역 (FR): "Ses idées sont **loin de** la réalité." (프랑스어의 'loin de'로 심리적 거리를 표현)
+
+    * **10. PART-WHOLE (부분-전체) 도식:** 개별 요소와 전체 구조.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Ce n'est qu'une **partie du puzzle**." (PART-WHOLE 도식: 전체 퍼즐의 한 조각)
+            * 번역 (KO): "이것은 그저 **전체 그림의 한 부분**일 뿐이다." (부분이 전체를 구성함을 강조)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그는 팀의 **중요한 구성원**이다." (PART-WHOLE 도식: 팀의 필수적인 부분)
+            * 번역 (FR): "Il est une **partie intégrante de l'équipe**." (프랑스어의 'partie intégrante de l'équipe'로 중요한 부분임을 강조)
+
+    * **11. SURFACE (표면) 도식:** 접촉, 노출, 감지.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "La vérité a finalement **fait surface**." (SURFACE 도식: 진실이 표면으로 드러남)
+            * 번역 (KO): "진실이 드디어 **수면 위로 드러났다**." (숨겨진 것이 드러남을 표현)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그는 **겉으로 강한 척한다**." (SURFACE 도식: 겉으로 보이는 모습)
+            * 번역 (FR): "Il **fait semblant d'être fort en surface**." (프랑스어의 'fait semblant d'être fort en surface'로 표면적인 모습 표현)
+
+    * **12. OBJECT (객체) 도식:** 개별적 실체, 구체성.
+        * **프랑스어->한국어 번역 활용 예시:**
+            * 원문 (FR): "Traitez les gens comme des **individus**." (OBJECT 도식: 사람을 독립적인 개체로 인식)
+            * 번역 (KO): "사람들을 **개개인으로 대우하라**." (하나의 객체로서의 존중을 강조)
+        * **한국어->프랑스어 번역 활용 예시:**
+            * 원문 (KO): "그는 그 **개념을 완벽하게 이해했다**." (OBJECT 도식: 추상적 개념을 구체적인 대상으로 파악)
+            * 번역 (FR): "Il a **parfaitement compris le concept**." (프랑스어의 'parfaitement compris le concept'를 사용하여 개념을 파악)
 
 3.  **고급 사고 모드**: 문제 분석-번역 실행-결과 검증의 단계적 사고 흐름을 적용합니다.
 

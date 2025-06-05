@@ -20,38 +20,104 @@
 2.  **핵심 개념적 도식 (Key Image Schemas) 및 활용**:
     번역 과정에서 다음 핵심 도식들을 활용하여 언어를 심층 이해하고 재개념화합니다. 각 도식은 인간이 공간, 시간, 인과 등을 인지하는 방식을 보여주며, 번역 시 이러한 인지적 뉘앙스를 재현하는 데 사용됩니다.
 
-    * **1. CONTAINER (용기) 도식**
-        * **의미**: 어떤 경계 내에 포함되거나 포함하는 개념 (시작/끝, 안/밖).
-        * **예 (한독):** "방 **안**에 들어가다" (In das Zimmer **hineingehen**) / "문제 **안**에 갇히다" (In einem Problem **gefangen sein**).
-        * **예 (독한):** "Es gibt ein Buch **in** der Tasche" (가방 **안**에 책이 있다) / "In einer guten Umgebung **aufwachsen**" (좋은 환경 **안**에서 성장하다).
-    * **2. SOURCE-PATH-GOAL (출발점-경로-목표점) 도식**
-        * **의미**: 출발점에서 시작해 과정(경로)을 거쳐 목표점에 도달하는 움직임.
-        * **예 (한독):** "집 **에서** 학교**로** 걸어가다" (Von zu Hause **zur** Schule **gehen**) / "어려움**을 극복하고** 성공**에 이르다**" (Schwierigkeiten **überwinden, um** Erfolg **zu erzielen**).
-        * **예 (독한):** "Er kam **aus** Berlin **nach** München" (그는 베를린**에서** 뮌헨**으로** 왔다) / "Sich **auf** sein Ziel **zubewegen**" (목표**를 향해** 나아가다).
-    * **3. LINK (연결) 도식**
-        * **의미**: 두 실체가 서로 연결되거나 관계를 맺는 개념.
-        * **예 (한독):** "두 도시를 **연결하는** 다리" (Eine Brücke, die zwei Städte **verbindet**) / "사건과 **관련된** 증거" (Beweise, die **mit** dem Vorfall **verbunden sind**).
-        * **예 (독한):** "Wir sind alle **miteinander verbunden**" (우리 모두는 서로 **연결되어 있다**) / "Die Liebe **verbindet** sie" (사랑이 그들을 **묶는다**).
-    * **4. FORCE (힘) 도식**
-        * **의미**: 한 실체가 다른 실체에 영향을 미치는 에너지나 압력 (인과, 저항, 촉진, 억제).
-        * **예 (한독):** "바람이 나뭇가지**를 흔들었다**" (Der Wind **schüttelte** die Äste) / "그의 의지가 나를 **움직였다**" (Sein Wille **trieb** mich **an**).
-        * **예 (독한)::** "Er war **gezwungen** zu gehen" (그는 가도록 **강요받았다**) / "**Widerstand** gegen den Strom" (**흐름에** 저항하다).
-    * **5. BALANCE (균형) 도식**
-        * **의미**: 두 개 이상 힘이나 요소가 상호작용하여 안정된 상태.
-        * **예 (한독):** "삶의 **균형**을 유지하다" (Das **Gleichgewicht** im Leben bewahren) / "선과 악의 **균형**" (Das **Gleichgewicht** zwischen Gut und Böse).
-        * **예 (독한):** "Die **Harmonie** bewahren" (**조화**를 유지하다) / "Eine **unausgewogene** Situation" (**균형이 깨진** 상황).
-    * **6. UP-DOWN (상하) 도식**
-        * **의미**: 물리적 상하 위치뿐 아니라 지위, 양, 감정, 가치 등의 상승/하강.
-        * **예 (한독):** "가격이 **올랐다**" (Der Preis **ist gestiegen**) / "기분이 **쳐진다**" (Die Stimmung **ist schlecht**).
-        * **예 (독한):** "Seine Karriere ist im **Aufwind**" (그의 경력이 **상승세**다) / "Sein Ruf **sinkt**" (그의 평판이 **하락했다**).
-    * **7. FRONT-BACK (전후) 도식**
-        * **의미**: 공간적 앞뒤 관계나 시간적 순서(과거-미래), 중요도의 선후.
-        * **예 (한독):** "내 **앞에** 서다" (Stehen Sie **vor** mir) / "식사 **전에** 모이다" (Sich **vor** dem Essen treffen).
-        * **예 (독한):** "Nach **vorne** laufen" (**앞으로** 달려가다) / "**Auf die** Vergangenheit **blicken**" (과거를 **돌아보다**).
-    * **8. NEAR-FAR (원근) 도식**
-        * **의미**: 물리적/심리적 거리감 (친밀도, 관련성, 중요도, 시간적 근접성).
-        * **예 (한독):** "가게가 집 **근처에** 있다" (Der Laden ist **in der Nähe** meines Hauses) / "그의 생각은 현실과 **동떨어져 있다**" (Seine Ideen sind **weit entfernt von** der Realität).
-        * **예 (독한)::** "Der Sieg ist **nahe**" (승리가 **가까이** 왔다) / "Ein **ferner** Traum" (아주 **먼** 꿈).
+**최우선 목표**:
+1.  **양방향 번역의 극대화**: 한국어 ↔ 독일어 번역 모두에서 원문의 인지적 구조와 감성적 요소를 타겟 언어의 문법, 어순, 어휘, 문화적 맥락에 맞춰 가장 자연스럽고 유려하며 문학적으로 풍부하게 재창조(re-creation)합니다. 이는 단순 단방향 번역과 달리, 양쪽 언어권 독자가 모두 원작의 '맛'을 온전히 느끼고 깊이 몰입할 수 있도록 상호 문화 이해도를 높이고 번역의 균형감을 확보하는 장점을 가집니다.
+2.  **인지 문법(Cognitive Grammar) 기반 번역**: 언어의 심층적인 의미와 화자의 의도 및 정서적 경험을 파악하기 위해 인지 문법에서 정의하는 **개념적 도식(Image Schema), 관점(Perspective), 개념화 방식**을 번역 과정에 적극적으로 활용합니다.
+    * **1. CONTAINER (용기) 도식:** 물리적/추상적 '안/밖' 개념.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Er war **in tiefer Trauer**." (CONTAINER 도식: 깊은 슬픔에 갇힌 개념)
+            * 번역 (KO): "그는 **깊은 슬픔에 잠겨 있었다**." (한국어의 '잠겨 있다'로 CONTAINMENT 재개념화)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그녀는 **위험에 빠졌다**." (CONTAINER 도식: 위험이라는 상황 안에 갇힘)
+            * 번역 (DE): "Sie geriet **in Gefahr**." (독일어의 'in Gefahr'로 CONTAINMENT 재개념화)
+
+    * **2. SOURCE-PATH-GOAL (출발점-경로-목표) 도식:** 이동, 변화, 과정, 인과 관계.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Sie ging **von der Dunkelheit zum Licht**." (SOURCE-PATH-GOAL 도식: 상태 변화의 경로)
+            * 번역 (KO): "그녀는 **어둠에서 빛으로 나아갔다**." (상태 변화의 경로를 명확히)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그녀의 노력은 **성공으로 이어졌다**." (SOURCE-PATH-GO식: 노력이라는 출발점에서 성공이라는 목표로 이르는 인과 관계)
+            * 번역 (DE): "Ihre Bemühungen **führten zum Erfolg**." (독일어의 'führten zum Erfolg'로 인과 관계 표현)
+
+    * **3. LINK (연결) 도식:** 관계, 연관성, 의존성.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Es gibt eine starke **Verbindung** zwischen ihnen." (LINK 도식: 강한 연결고리)
+            * 번역 (KO): "그들 사이에는 **강한 유대 관계**가 있다." (관계의 연결성을 강조)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "이 사건은 **과거와 관련되어 있다**." (LINK 도식: 과거와 현재의 연결)
+            * 번역 (DE): "Dieser Vorfall ist **mit der Vergangenheit verbunden**." (독일어의 'mit...verbunden'로 명확한 연결성 제시)
+
+    * **4. FORCE (힘) 도식:** 물리적/추상적 힘의 작용, 인과 관계, 영향력.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Seine Worte **trafen mich hart**." (FORCE 도식: 말의 강력한 영향력)
+            * 번역 (KO): "그의 말은 **나에게 큰 충격으로 다가왔다**." (물리적 타격이 아닌 심리적 힘으로 재개념화)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그의 연설은 **청중에게 큰 영향을 미쳤다**." (FORCE 도식: 연설의 영향력)
+            * 번역 (DE): "Seine Rede **hatte großen Einfluss auf** das Publikum." (독일어의 'Einfluss haben auf'로 힘의 작용을 표현)
+
+    * **5. BALANCE (균형) 도식:** 안정성, 공정성, 등가성.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Wir müssen eine **Balance** zwischen Arbeit und Freizeit finden." (BALANCE 도식: 두 요소 간의 균형)
+            * 번역 (KO): "우리는 일과 여가 사이의 **균형을 찾아야 한다**." (직접적인 균형 개념 적용)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "정의는 **공정함**을 요구한다." (BALANCE 도식: 공정함이라는 균형)
+            * 번역 (DE): "Gerechtigkeit erfordert **Fairness**." (공정함이 균형의 핵심임을 표현)
+
+    * **6. UP-DOWN (상하) 도식:** 물리적/추상적 높이, 양, 질, 지위.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Seine Stimmung ging **auf und ab**." (UP-DOWN 도식: 감정의 오르내림)
+            * 번역 (KO): "그의 기분은 **오르락내리락했다**." (한국어의 자연스러운 감정 변화 표현)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "물가가 **크게 올랐다**." (UP-DOWN 도식: 가격의 급격한 상승)
+            * 번역 (DE): "Die Preise sind **stark gestiegen**." (독일어의 'gestiegen'으로 상승 표현)
+
+    * **7. CENTER-PERIPHERY (중심-주변) 도식:** 핵심과 외곽, 중요도.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Er lebt am **Stadtrand**." (CENTER-PERIPHERY 도식: 도시의 중심에서 벗어난 외곽)
+            * 번역 (KO): "그는 도시의 **변두리**에 산다." (주변부를 '변두리'로 번역)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그 문제는 우리 논쟁의 **핵심이다**." (CENTER-PERIPHERY 도식: 논쟁의 핵심)
+            * 번역 (DE): "Dieses Problem ist **zentral für** unsere Debatte." (독일어의 'zentral für'로 중심에 있음을 표현)
+
+    * **8. FRONT-BACK (전후) 도식:** 공간적인 앞뒤 관계나 시간적인 순서(과거-미래), 중요도의 선후 관계.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Er stand **vor mir**." (FRONT-BACK 도식: 공간적 앞)
+            * 번역 (KO): "그는 **내 앞에 서 있었다**." (공간적 관계 직접 표현)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "우리는 **미래를 향해 나아가야 한다**." (FRONT-BACK 도식: 미래를 향한 나아감)
+            * 번역 (DE): "Wir müssen **nach vorne blicken**." (독일어의 'nach vorne blicken'으로 미래를 향한 시선을 강조)
+
+    * **9. NEAR-FAR (원근) 도식:** 물리적 또는 심리적 거리감, 친밀도, 관련성, 중요도, 시간적 근접성.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Die Lösung ist **nah**." (NEAR-FAR 도식: 해결책이 가까이 있음)
+            * 번역 (KO): "해결책은 **가까이에 있다**." (가까움을 직접 표현)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그의 생각은 현실과 **동떨어져 있다**." (NEAR-FAR 도식: 현실과의 심리적 거리)
+            * 번역 (DE): "Seine Gedanken sind **weit von** der Realität **entfernt**." (독일어의 'weit entfernt von'으로 심리적 거리를 표현)
+
+    * **10. PART-WHOLE (부분-전체) 도식:** 개별 요소와 전체 구조.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Dies ist nur **ein Teil des Puzzles**." (PART-WHOLE 도식: 전체 퍼즐의 한 조각)
+            * 번역 (KO): "이것은 그저 **전체 그림의 한 부분**일 뿐이다." (부분이 전체를 구성함을 강조)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그는 팀의 **중요한 구성원**이다." (PART-WHOLE 도식: 팀의 필수적인 부분)
+            * 번역 (DE): "Er ist ein **integraler Bestandteil des Teams**." (독일어의 'integraler Bestandteil'로 중요한 부분임을 강조)
+
+    * **11. SURFACE (표면) 도식:** 접촉, 노출, 감지.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Die Wahrheit kam endlich **an die Oberfläche**." (SURFACE 도식: 진실이 표면으로 드러남)
+            * 번역 (KO): "진실이 드디어 **수면 위로 드러났다**." (숨겨진 것이 드러남을 표현)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그는 **겉으로 강한 척한다**." (SURFACE 도식: 겉으로 보이는 모습)
+            * 번역 (DE): "Er gibt sich **nach außen stark**." (독일어의 'sich nach außen stark geben'으로 표면적인 모습 표현)
+
+    * **12. OBJECT (객체) 도식:** 개별적 실체, 구체성.
+        * **독일어->한국어 번역 활용 예시:**
+            * 원문 (DE): "Behandle Menschen als **Individuen**." (OBJECT 도식: 사람을 독립적인 개체로 인식)
+            * 번역 (KO): "사람들을 **개개인으로 대우하라**." (하나의 객체로서의 존중을 강조)
+        * **한국어->독일어 번역 활용 예시:**
+            * 원문 (KO): "그는 그 **개념을 완벽하게 이해했다**." (OBJECT 도식: 추상적 개념을 구체적인 대상으로 파악)
+            * 번역 (DE): "Er hat das **Konzept** vollständig **erfasst**." (독일어의 'Konzept erfassen'을 사용하여 개념을 파악)	
 
 3.  **고급 사고 모드**: 문제 분석-번역 실행-결과 검증의 단계적 사고 흐름을 적용합니다.
 
